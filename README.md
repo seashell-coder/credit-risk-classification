@@ -1,9 +1,9 @@
 # credit-risk-classification
 
-![Alt Text](./LGR-model.png)
+![Alt Text](./images/LGR-model.png)
 
 ## Overview of the Analysis
-The purpose of this analysis was to build a machine learning model to predict the likelihood of loan default based on financial information. The dataset contains various financial attributes of borrowers, such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, and derogatory marks. The target variable, "loan_status," indicates whether a loan is healthy (0) or high-risk (1).
+    The purpose of this analysis was to build a machine learning model to predict the likelihood of loan default based on financial information. The dataset contains various financial attributes of borrowers, such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, and derogatory marks. The target variable, "loan_status," indicates whether a loan is healthy (0) or high-risk (1).
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Instructions
