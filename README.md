@@ -1,6 +1,5 @@
 # credit-risk-classification
-
-![alt text](./images/LGR-model.png)
+![Alt Text](./images/LGR.png)
 
 ## Overview of the Analysis
 
