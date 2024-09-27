@@ -1,5 +1,5 @@
 # credit-risk-classification
-![Alt Text](./images/LGR.png)
+![Alt Text](./images/lgr.png)
 
 ## Overview of the Analysis
 
